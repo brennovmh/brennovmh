@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brennovmh
 - 👀 I’m interested in Data Science and Bioinformatics
-- 🌱 I’m currently learning Python and C++
+- 🌱 I have experience using R and I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on Bioinformatics and Data Science projetcs, including Genome Assembly and Health Data Analytics 
 - 📫 How to reach me: @brennovmh at Twitter/Instagram and Brenno Martins on Linkedin 
 
