@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brennovmh
 - 👀 I’m interested in Data Science and Bioinformatics
-- 💞️ I’m looking to collaborate on Bioinformatics and Data Science projetcs, including Genome Assembly and Health Data Analytics 
+- 🧠 I’m looking to collaborate on Bioinformatics and Data Science projetcs, including Genome Assembly and Health Data Analytics 
 - 📫 How to reach me: @brennovmh at Twitter/Instagram and Brenno Martins on Linkedin 
 
 <!---
